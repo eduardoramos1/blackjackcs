@@ -19,6 +19,9 @@ namespace BlackJack
             btn_reiniciar.Enabled = false;
             btn_jogar_2.Enabled = false;
             btn_parar_2.Enabled = false;
+
+            btn_jogar_2.Visible = false;
+            btn_parar_2.Visible = false;
         }
 
         int pontos_A = 0;
@@ -29,8 +32,13 @@ namespace BlackJack
 
             btn_jogar_1.Enabled = false;
             btn_parar_1.Enabled = false;
+            btn_jogar_1.Visible = false;
+            btn_parar_1.Visible = false;
+
             btn_jogar_2.Enabled = true;
             btn_parar_2.Enabled = true;
+            btn_jogar_2.Visible = true;
+            btn_parar_2.Visible = true;
 
         }
 
@@ -134,9 +142,14 @@ namespace BlackJack
             pontos_A = 0;
             pontos_B = 0;
             btn_jogar_1.Enabled = true;
-            btn_jogar_2.Enabled = false;
             btn_parar_1.Enabled = true;
+            btn_jogar_1.Visible = true;
+            btn_parar_1.Visible = true;
+
             btn_parar_2.Enabled = false;
+            btn_jogar_2.Enabled = false;
+            btn_parar_2.Visible = false;
+            btn_jogar_2.Visible = false;
 
             btn_reiniciar.Enabled = false;
             lbl_Pontos_A.Text = "0";

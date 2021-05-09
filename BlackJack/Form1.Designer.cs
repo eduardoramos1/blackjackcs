@@ -49,10 +49,10 @@ namespace BlackJack
             // btn_jogar_1
             // 
             this.btn_jogar_1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btn_jogar_1.Location = new System.Drawing.Point(12, 603);
+            this.btn_jogar_1.Location = new System.Drawing.Point(12, 574);
             this.btn_jogar_1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn_jogar_1.Name = "btn_jogar_1";
-            this.btn_jogar_1.Size = new System.Drawing.Size(126, 39);
+            this.btn_jogar_1.Size = new System.Drawing.Size(126, 68);
             this.btn_jogar_1.TabIndex = 0;
             this.btn_jogar_1.Text = "Jogar";
             this.btn_jogar_1.UseVisualStyleBackColor = false;
@@ -98,10 +98,10 @@ namespace BlackJack
             // btn_parar_1
             // 
             this.btn_parar_1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btn_parar_1.Location = new System.Drawing.Point(186, 603);
+            this.btn_parar_1.Location = new System.Drawing.Point(181, 574);
             this.btn_parar_1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn_parar_1.Name = "btn_parar_1";
-            this.btn_parar_1.Size = new System.Drawing.Size(126, 39);
+            this.btn_parar_1.Size = new System.Drawing.Size(131, 68);
             this.btn_parar_1.TabIndex = 5;
             this.btn_parar_1.Text = "Parar";
             this.btn_parar_1.UseVisualStyleBackColor = false;
@@ -110,10 +110,10 @@ namespace BlackJack
             // btn_parar_2
             // 
             this.btn_parar_2.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btn_parar_2.Location = new System.Drawing.Point(844, 603);
+            this.btn_parar_2.Location = new System.Drawing.Point(841, 574);
             this.btn_parar_2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn_parar_2.Name = "btn_parar_2";
-            this.btn_parar_2.Size = new System.Drawing.Size(126, 39);
+            this.btn_parar_2.Size = new System.Drawing.Size(129, 68);
             this.btn_parar_2.TabIndex = 8;
             this.btn_parar_2.Text = "Parar";
             this.btn_parar_2.UseVisualStyleBackColor = false;
@@ -133,10 +133,10 @@ namespace BlackJack
             // btn_jogar_2
             // 
             this.btn_jogar_2.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btn_jogar_2.Location = new System.Drawing.Point(670, 603);
+            this.btn_jogar_2.Location = new System.Drawing.Point(670, 574);
             this.btn_jogar_2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn_jogar_2.Name = "btn_jogar_2";
-            this.btn_jogar_2.Size = new System.Drawing.Size(126, 39);
+            this.btn_jogar_2.Size = new System.Drawing.Size(126, 68);
             this.btn_jogar_2.TabIndex = 6;
             this.btn_jogar_2.Text = "Jogar";
             this.btn_jogar_2.UseVisualStyleBackColor = false;
